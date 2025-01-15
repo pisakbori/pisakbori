@@ -6,4 +6,8 @@ Here are some of my favorite projects:
 
 This is one of my favorite projects so far at 42. It implements a simple ray tracer based on the Phong reflection model. You can check it out here:
 
-[Ray Tracer Repository](https://github.com/pisakbori/miniRT)
+[MiniRT](https://github.com/pisakbori/miniRT)
+
+<p align="center">
+<img src="./atom.png" alt="Ray Tracer Preview" width="600"/>
+</p>
